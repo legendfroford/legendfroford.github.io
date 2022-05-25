@@ -1,5 +1,5 @@
 # Site settings
-title: 来福隆的个人微博
+title: 来福隆的世界
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "" # the subpath of your site, e.g. /blog
