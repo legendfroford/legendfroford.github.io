@@ -1,5 +1,5 @@
 # Site settings
-title: 郑志强
+title: 来福隆的个人微博
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -26,17 +26,17 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: L&L.ery # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: lifelong,Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+about-author: Lifelong | ENFP . Avid learner with diverse interests in coding, movies,music, artificial intelligence and reinforcement learning. 20+ years of experience living on earth.
 
 # Contact links
 email: entropy421@outlook.com # Add your Email address
 phone: # Add your Phone number
-website: https://amaynez.github.io # Add your website
-linkedin: amaynez # Add your Linkedin handle
-github: amaynez # Add your Github handle
-twitter: '@MvmThe' # Add your Twitter handle
-bandcamp: armandomaynez # Add your Bandcamp username
-stackoverflow: stackoverflow # Add your stackoverflow account
+website: https://legendfroford.github.io # Add your website
+linkedin: legendfroford # Add your Linkedin handle
+github: legendfroford # Add your Github handle
+twitter: '@legendfroford' # Add your Twitter handle
+bandcamp: legendfroford # Add your Bandcamp username
+stackoverflow: legendfroford # Add your stackoverflow account
 
 # Newsletter
 mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
