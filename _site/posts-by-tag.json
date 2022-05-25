@@ -105,6 +105,26 @@
     
       
   {
+  "tag" : "movie",
+  "posts" : [
+      
+      "./Jekyll.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "music",
+  "posts" : [
+      
+      "./Jekyll.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "neural networks",
   "posts" : [
       
